@@ -1,0 +1,14 @@
+elasticsearch
+farm-haystack
+kaggle
+nltk
+numpy
+pandas
+rouge
+seaborn
+transformers
+sentence-transformers
+flair
+tensorflow-macos
+tensorflow-metal
+ipykernel
